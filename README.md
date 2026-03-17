@@ -52,7 +52,6 @@
 
 ## 🎯 Foco atual
 
-* 📚 Desenvolvimento do TCC (educação + tecnologia)
 * 🎨 Interfaces modernas e minimalistas
 * ⚙️ Estruturação de sistemas completos
 
@@ -66,8 +65,7 @@
 
 ## 📫 Contato
 
-📎 LinkedIn: *(adicione aqui)*
-📧 Email: *(adicione aqui)*
+📧 Email: hiraikevyn@gmail.com
 
 ---
 
