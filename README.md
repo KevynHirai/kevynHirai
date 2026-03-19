@@ -1,6 +1,6 @@
 ---
 
-# 👋 Olá, eu sou o Kevyn
+# 👋 Eai, eu sou o Kevyn
 
 💻 Desenvolvedor em formação | Construindo soluções práticas e eficientes
 🚀 Focado em evolução constante e projetos reais
